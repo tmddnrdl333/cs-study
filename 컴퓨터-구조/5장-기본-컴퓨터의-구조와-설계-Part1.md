@@ -1,32 +1,23 @@
-영상: [컴퓨터시스템구조 CSA-5 Part-1](https://youtu.be/uzgqj73wWGQ?list=PLc8fQ-m7b1hD4jqccMlfQpWgDVdalXFbH)
 
-## [제 5장 Part-1](https://youtu.be/uzgqj73wWGQ?list=PLc8fQ-m7b1hD4jqccMlfQpWgDVdalXFbH)
-
-### 기본 컴퓨터 (Basic Computer)
-
-- PDP-11
+## [제 5장 Part-1-1](https://www.youtube.com/watch?v=vSnpYzCuwVY&list=PLc8fQ-m7b1hCHTT7VH2oo0Ng7Et096dYc&index=10)
 
 ### 명령어 코드 (Instruction Codes)
 
 - 
 
-## [제 5장 Part-2](https://youtu.be/m5Yw8TdBnmQ?list=PLc8fQ-m7b1hD4jqccMlfQpWgDVdalXFbH)
-
 ### 컴퓨터 레지스터 (Computer Registers)
 
 - 
+
+## [제 5장 Part-1-2](https://www.youtube.com/watch?v=T2oKxvinK84&list=PLc8fQ-m7b1hCHTT7VH2oo0Ng7Et096dYc&index=11)
 
 ### 컴퓨터 명령어 (Computer Instructions)
 
 - 
 
-## [제 5장 Part-3](https://youtu.be/d5GtCwS6KsM?list=PLc8fQ-m7b1hD4jqccMlfQpWgDVdalXFbH)
-
 ### 타이밍과 제어 (Timing and Control)
 
 - 
-
-## [제 5장 Part-4](https://youtu.be/0gRA-lHCuWM?list=PLc8fQ-m7b1hD4jqccMlfQpWgDVdalXFbH)
 
 ### 명령어 사이클 (Instruction Cycle)
 

@@ -8,7 +8,7 @@
 ### 추가 교재 및 참고자료
 
 <details>
-<summary>영상 : [컴퓨터시스템구조](https://www.youtube.com/playlist?list=PLc8fQ-m7b1hD4jqccMlfQpWgDVdalXFbH) (23H)</summary>
+<summary>영상 : [컴퓨터시스템구조](https://www.youtube.com/playlist?list=PLc8fQ-m7b1hCHTT7VH2oo0Ng7Et096dYc) (23H)</summary>
 컴퓨터 공학과 교수님께서 정규 교과과목을 온라인으로 진행한 영상이며 컴퓨터시스템구조(제3판) 교재에 대한 강의이므로 교재로 학습하기에도 좋습니다.
 </details>
 
